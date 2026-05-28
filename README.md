@@ -1,4 +1,4 @@
-IMDb Top 1000 — Explainable Ratings (XAI)
+IMDb Top 1000 - Explainable Ratings (XAI)
 
 A step-by-step Jupyter notebook that builds a full machine-learning and explainability workflow on the IMDb Top 1000 dataset. It trains a regression model to predict ratings (IMDb or your personal ratings) and explains predictions using SHAP (and optionally LIME).
 
